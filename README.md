@@ -193,6 +193,12 @@ We welcome contributions! Please open issues, submit pull requests, or join our 
 
 ---
 
+## 👥 Team: Code Impact
+
+- **Dharma Teja Pola** (Product Builder & AI Developer)
+- **sohnam** (full stack developer)
+- **Kumar** (Frontend Developer) 
+- **vaishnav** (Frontend Developer)
 
 
 ## 📄 License
