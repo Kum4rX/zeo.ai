@@ -102,13 +102,21 @@
 
 ## 🆚 Competitive Landscape
 
-| Platform         | Emotion Recognition | Video Avatar | Empathetic Conversation | Crisis Protocol |
-|------------------|--------------------|--------------|------------------------|-----------------|
-| **zeo.ai**       | ✅                  | ✅            | ✅                      | ✅               |
-| Character.AI     | ❌                  | ❌            | ⚠️ (text only)          | ❌               |
-| Replika          | ❌                  | ❌            | ⚠️ (limited)            | ❌               |
-| Woebot/Wysa      | ❌                  | ❌            | ⚠️ (clinical, text)     | ❌               |
-| Tavus/Synthesia  | ❌                  | ✅            | ❌                      | ❌               |
+| Feature                          | Zeo.ai | YourDOST | Wysa | Woebot | Replika | Tess | Youper | Talkspace |
+| -------------------------------- | ------ | -------- | ---- | ------ | ------- | ---- | ------ | --------- |
+| Institution-based therapist pool | ✅      | ❌        | ❌    | ❌      | ❌       | ❌    | ❌      | ❌         |
+| Regional language support        | ✅      | ❌        | ❌    | ❌      | ❌       | ✅    | ❌      | ❌         |
+| Anonymous guest chat             | ✅      | ❌        | ✅    | ✅      | ✅       | ✅    | ✅      | ❌         |
+| AI 3D video avatar               | ✅      | ❌        | ❌    | ❌      | ✅       | ❌    | ❌      | ❌         |
+| Emotional AI (video + face)      | ✅      | ❌        | ❌    | ❌      | ✅       | ❌    | ❌      | ❌         |
+| Live booking system              | ✅      | ✅        | ❌    | ❌      | ❌       | ❌    | ❌      | ✅         |
+| Physical, video, voice sessions  | ✅      | ✅        | ❌    | ❌      | ❌       | ❌    | ❌      | ✅         |
+| Peer-to-peer community           | ✅      | ❌        | ❌    | ❌      | ❌       | ❌    | ❌      | ❌         |
+| Culturally intelligent resources | ✅      | ❌        | ❌    | ❌      | ❌       | ❌    | ❌      | ❌         |
+| Counsellor dashboard + workshops | ✅      | ✅        | ❌    | ❌      | ❌       | ❌    | ❌      | ❌         |
+| Govt helpline integration        | ✅      | ❌        | ❌    | ❌      | ❌       | ❌    | ❌      | ❌         |
+| GDPR / HIPAA compliance          | ✅      | ✅        | ❌    | ❌      | ❌       | ✅    | ✅      | ✅         |
+| Chatbot (AI)                     | ✅      | ❌        | ✅    | ✅      | ❌       | ✅    | ✅      | ❌         |
 
 ---
 
