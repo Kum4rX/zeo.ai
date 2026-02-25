@@ -193,14 +193,6 @@ We welcome contributions! Please open issues, submit pull requests, or join our 
 
 ---
 
-## 👥 Team: Code Impact
-
-- **Dharma Teja Pola** (Product Builder & AI Developer)
-- **soham** (full stack developer)
-- **Kumar** (Frontend Developer) 
-- **vaishnav** (Frontend Developer)
-
-
 ## 📄 License
 
 This project is licensed under the MIT License.
